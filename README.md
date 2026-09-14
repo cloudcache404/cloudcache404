@@ -1,115 +1,136 @@
-👋 Hey, I'm Imon
+Imon
 
-"Developer" · "Builder" · "Student" · "Open Source"
+Web Developer · Student · Builder
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+ideas+into+products+%F0%9F%9A%80;Learning+something+new+every+day+%F0%9F%8C%B1;Exploring+Web%2C+AI+%26+Cybersecurity+%F0%9F%94%90;Open+Source+%E2%80%A2+QA+%E2%80%A2+Development+%F0%9F%A7%AA" /></p>---
-
-🌈 About Me
-
-I'm Imon, a student developer from 🇮🇳 India who enjoys turning ideas into real, usable things.
-
-I build web projects, experiment with AI, explore cybersecurity, and contribute to open source.
-
-💡 Imagine
-   ↓
-🧑‍💻 Build
-   ↓
-🧪 Test
-   ↓
-🚀 Ship
-   ↓
-📈 Improve
+<p align="left">
+  <a href="https://github.com/cloudcache404">
+    <img src="https://img.shields.io/badge/GitHub-cloudcache404-18181B?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/India-FF7A59?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-22C55E?style=flat-square" />
+</p>«Building modern web experiences, useful tools, and things worth shipping.»
 
 ---
 
-⚡ My Playground
+About
 
-🧩 Area| 🔧 Technologies
-🌐 Web| HTML · CSS · JavaScript
-⚛️ Frontend| React · Next.js
-🟦 Languages| TypeScript · Python
-🎨 Creative Web| WebGL · Three.js
-🤖 AI| AI APIs · Automation
-🔐 Security| Cybersecurity fundamentals
-🧪 QA| Testing · Bug reporting
-☁️ Deploy| Vercel · Cloudflare
+I'm Imon, a student developer focused on building practical digital products and learning through real-world projects.
+
+My interests sit around modern web development, AI, cybersecurity, open source, and software quality.
+
+I enjoy taking an idea from:
+
+"Concept → Build → Test → Deploy → Improve"
 
 ---
 
-🚀 Things I'm Building
+Stack
+
+Frontend
+
+"TypeScript" · "React" · "Next.js" · "JavaScript" · "HTML" · "CSS"
+
+Backend
+
+"Python" · "PHP" · "Node.js"
+
+Creative Web
+
+"WebGL" · "Three.js"
+
+Infrastructure
+
+"Git" · "GitHub" · "Cloudflare" · "Vercel"
+
+Exploring
+
+"AI" · "Cybersecurity" · "QA" · "Open Source"
+
+---
+
+Selected Projects
 
 📚 NotesWallah
 
-A student-focused platform for notes and learning resources.
+Student resources platform
+
+A platform focused on making study notes and educational resources easier to discover and access.
 
 "Education" "Web" "Students"
 
 🤖 Evo AI
 
-An experimental project exploring AI-powered experiences and interfaces.
+AI experimentation & automation
+
+An experimental project exploring AI-powered tools, APIs, interfaces, and automation.
 
 "AI" "Python" "Web"
 
 🛠️ NightBuild
 
-A collection of lightweight utilities and experiments.
+Lightweight utilities
+
+A collection of practical utilities and experiments designed around speed, simplicity, and everyday use.
 
 "Utilities" "Web" "Tools"
 
 ---
 
-🧪 Open Source
+Open Source
 
-I’m currently exploring the open-source world through:
+I'm currently interested in contributing through:
 
-🟢 Bug reporting
-🔵 QA & testing
-🟣 Documentation
-🟠 Frontend contributions
-🔴 Small feature improvements
+- 🐛 Bug discovery & reproduction
+- 🧪 Manual QA & testing
+- 📝 Documentation
+- 🎨 Frontend improvements
+- ⚡ Small features & fixes
 
-«Small PRs → real experience → better projects.»
-
----
-
-🧠 Currently Learning
-
-TypeScript       █████████████████░░░
-React / Next.js  ██████████████████░░
-Python           ████████████████░░░░
-Cybersecurity    ████████████░░░░░░░░
-Open Source      ███████████░░░░░░░░░
-QA / Testing     ██████████░░░░░░░░░░
+«Small contributions. Real projects. Continuous learning.»
 
 ---
 
-📊 GitHub
+Current Focus
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=FFD166" height="165"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=4DABF7&text_color=FFFFFF" height="165"/></p>---
-
-🎨 Tech I Enjoy
-
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,threejs,git,github,cloudflare,vercel&perline=6" /></p>---
-
-🌱 2026 Goals
-
-- 🚀 Ship more real-world projects
-- 🌍 Make meaningful open-source contributions
-- 🧪 Become better at QA & software testing
-- 🔐 Learn cybersecurity more deeply
-- 🤝 Meet developers and build together
-- 📚 Keep learning without stopping
+01  BUILD        Modern web applications
+02  LEARN        TypeScript · Python · Security
+03  EXPLORE      AI · WebGL · New technologies
+04  CONTRIBUTE   Open source · QA · Testing
+05  IMPROVE      Performance · UX · Code quality
 
 ---
 
-💭 A Little Philosophy
+GitHub Activity
 
-<p align="center">Build → Break → Learn → Fix → Ship → Repeat. 🚀
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cloudcache404&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A59&text_color=C9D1D9&icon_color=58A6FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudcache404&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
 </p>---
 
-<p align="center">🌈 Thanks for stopping by.
+Philosophy
 
-<br><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=ff6b6b&style=flat-square" /></p><p align="center">
-  <sub>Made with curiosity, caffeine & way too much code ☕</sub>
+Good software isn't only about writing code.
+
+It's about:
+
+Clarity · Usability · Performance · Reliability · Curiosity
+
+---
+
+Connect
+
+Building something interesting?
+Working on open source?
+Have a cool idea?
+
+Let's build.
+
+<p align="left">
+  <a href="https://github.com/cloudcache404">GitHub</a>
+  ·
+  <a href="https://YOUR_PORTFOLIO_URL">Portfolio</a>
+</p>---
+
+<p align="center">
+  <sub>© Imon · cloudcache404</sub>
 </p>
